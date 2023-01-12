@@ -1,0 +1,23 @@
+git config --global user.name "aryasugianta"
+git config --global user.email "aryasugianta@gmail.com"
+git init
+git add . 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/aryasugianta/form.git
+git push -u origin main
+
+edit dta web
+code .
+
+
+=====Visual Studio=====
+View
+Terminal
+Select Default Sell
+Git Bash
+
+Ketik 
+Git add .
+git commit -m 'mengubah warna tombol menjadi hijau'
+git push
